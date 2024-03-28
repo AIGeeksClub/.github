@@ -36,12 +36,17 @@
 <td align="center" valign="top" width="14.28%"><a href="https://github.com/ZeroHzzzz"><img src="https://avatars.githubusercontent.com/u/137389489?v=4" width="100px;"/><br /><b>ZeroHzzzz</b></a></td>
 </tr>
   <tr>
+<td align="center" valign="top" width="14.28%"><a href="https://github.com/Showwwwwwwww"><img src="/avatar/shawn.jpeg" width="100px;"/><br /><b>Shawn</b></a></td>
+<td align="center" valign="top" width="14.28%"><a href="https://github.com/u7079256"><img src="/avatar/ken.jpeg" width="100px;"/><br /><b>Ken</b></a></td>
+<td align="center" valign="top" width="14.28%"><a href="https://github.com/u6441152"><img src="/avatar/xinyu.jpeg" width="100px;"/><br /><b>Xinyu</b></a></td>
+<td align="center" valign="top" width="14.28%"><a href="https://github.com/Tiooo111"><img src="/avatar/zhiyuan.jpeg" width="100px;"/><br /><b>Zhiyuan</b></a></td>
 <td align="center" valign="top" width="14.28%"><a href="https://github.com/malie-wang"><img src="https://avatars.githubusercontent.com/u/100657314?v=4" width="100px;"/><br /><b>Malie</b></a></td>
 <td align="center" valign="top" width="14.28%"><a href="https://github.com/KaiqiLin"><img src="/avatar/kaiqi.jpeg" width="100px;"/><br /><b>Kaiqi</b></a></td>
 <td align="center" valign="top" width="14.28%"><a href="https://github.com/gekelly"><img src="https://avatars.githubusercontent.com/u/37037628?v=4" width="100px;"/><br /><b>Shiya</b></a></td>
+</tr>
+  <tr>
 <td align="center" valign="top" width="14.28%"><a href="https://github.com/wangjiameiiii"><img src="/avatar/jiamei.jpeg" width="100px;"/><br /><b>Jiamei</b></a></td>
 <td align="center" valign="top" width="14.28%"><a href="https://github.com/jingxianer"><img src="/avatar/anan.jpeg" width="100px;"/><br /><b>anan</b></a></td>
-
 </tr>
 </tbody>
 </table>
