@@ -13,7 +13,7 @@
 <td align="center" valign="top" width="14.28%"><a href="https://scholar.google.com/citations?user=Y3SBBWMAAAAJ&hl=en&oi=sra"><img src="https://avatars.githubusercontent.com/u/113005567?s=96&v=4" width="100px;"/><br /><b>Biao</b></a></td>
 <td align="center" valign="top" width="14.28%"><a href="https://github.com/hycarbon-b"><img src="https://avatars.githubusercontent.com/u/63985695?s=96&v=4" width="100px;"/><br /><b>Chen</b></a></td>
 <td align="center" valign="top" width="14.28%"><a href="https://github.com/lgX1123"><img src="https://avatars.githubusercontent.com/u/98698611?s=96&v=4" width="100px;"/><br /><b>lgx</b></a></td>
-<td align="center" valign="top" width="14.28%"><a href="https://steve-zeyu-zhang.github.io/"><img src="avatar/steve.jpg" width="100px;"/><br /><b>Steve</b></a></td>
+<td align="center" valign="top" width="14.28%"><a href="https://steve-zeyu-zhang.github.io/"><img src="/avatar/steve.jpg" width="100px;"/><br /><b>Steve</b></a></td>
 <td align="center" valign="top" width="14.28%"><a href="https://github.com/ZeroHzzzz"><img src="https://avatars.githubusercontent.com/u/137389489?s=96&v=4" width="100px;"/><br /><b>ZeroHzzzz</b></a></td>
 </tr>
   <tr>
