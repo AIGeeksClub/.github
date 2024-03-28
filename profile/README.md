@@ -2,6 +2,25 @@
 
 ## Research
 
+> **SegReg: Segmenting OARs by Registering MR Images and CT Annotations**<br>
+> [_**ISBI 2024**_](https://biomedicalimaging.org/2024/)<br>
+> [![Website](https://img.shields.io/badge/Website-Demo-fedcba?style=flat-square)](https://steve-zeyu-zhang.github.io/SegReg) [![arXiv](https://img.shields.io/badge/arXiv-2311.06956-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2311.06956) [![OpenReview](https://img.shields.io/badge/OpenReview-8c1b13?style=flat-square)](https://openreview.net/forum?id=rC8bmJoOOTC) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/steve-zeyu-zhang/SegReg) [![Papers With Code](https://img.shields.io/badge/Papers%20With%20Code-555555.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgd2lkdGg9IjUxMiIgIGhlaWdodD0iNTEyIiA+PHBhdGggZD0iTTg4IDEyOGg0OHYyNTZIODh6bTE0NCAwaDQ4djI1NmgtNDh6bS03MiAxNmg0OHYyMjRoLTQ4em0xNDQgMGg0OHYyMjRoLTQ4em03Mi0xNmg0OHYyNTZoLTQ4eiIgc3Ryb2tlPSIjMjFDQkNFIiBmaWxsPSIjMjFDQkNFIj48L3BhdGg+PHBhdGggZD0iTTEwNCAxMDRWNTZIMTZ2NDAwaDg4di00OEg2NFYxMDR6bTMwNC00OHY0OGg0MHYzMDRoLTQwdjQ4aDg4VjU2eiIgc3Ryb2tlPSIjMjFDQkNFIiBmaWxsPSIjMjFDQkNFIj48L3BhdGg+PC9zdmc+)](https://paperswithcode.com/paper/segreg-segmenting-oars-by-registering-mr) [![BibTeX](https://img.shields.io/badge/BibTeX-Citation-eeeeee?style=flat-square)](https://steve-zeyu-zhang.github.io/SegReg/webpage/scholar.html)<br>
+> <img src="https://github.com/steve-zeyu-zhang/steve-zeyu-zhang/blob/main/asset/segreg.svg" width="500"><br>
+> <img src="https://github.com/steve-zeyu-zhang/steve-zeyu-zhang/blob/main/asset/segreg2.svg" width="500">
+
+
+
+> **BHSD: A 3D Multi-class Brain Hemorrhage Segmentation Dataset**<br>
+> [_**MLMI 2023**_](https://sites.google.com/view/mlmi2023)<br>
+> [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--031--45673--2__15-fcb520?style=flat-square&logo=doi)](https://doi.org/10.1007/978-3-031-45673-2_15) [![arXiv](https://img.shields.io/badge/arXiv-2308.11298-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2308.11298) [![OpenReview](https://img.shields.io/badge/OpenReview-8c1b13?style=flat-square)](https://openreview.net/forum?id=R5951Pk_vlw) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/White65534/BHSD) [![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-20beff?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/stevezeyuzhang/bhsd-dataset) [![Papers With Code](https://img.shields.io/badge/Papers%20With%20Code-555555.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgd2lkdGg9IjUxMiIgIGhlaWdodD0iNTEyIiA+PHBhdGggZD0iTTg4IDEyOGg0OHYyNTZIODh6bTE0NCAwaDQ4djI1NmgtNDh6bS03MiAxNmg0OHYyMjRoLTQ4em0xNDQgMGg0OHYyMjRoLTQ4em03Mi0xNmg0OHYyNTZoLTQ4eiIgc3Ryb2tlPSIjMjFDQkNFIiBmaWxsPSIjMjFDQkNFIj48L3BhdGg+PHBhdGggZD0iTTEwNCAxMDRWNTZIMTZ2NDAwaDg4di00OEg2NFYxMDR6bTMwNC00OHY0OGg0MHYzMDRoLTQwdjQ4aDg4VjU2eiIgc3Ryb2tlPSIjMjFDQkNFIiBmaWxsPSIjMjFDQkNFIj48L3BhdGg+PC9zdmc+)](https://paperswithcode.com/paper/bhsd-a-3d-multi-class-brain-hemorrhage) [![Papers With Code](https://img.shields.io/badge/Papers%20With%20Code-Dataset-21cbce.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgd2lkdGg9IjUxMiIgIGhlaWdodD0iNTEyIiA+PHBhdGggZD0iTTg4IDEyOGg0OHYyNTZIODh6bTE0NCAwaDQ4djI1NmgtNDh6bS03MiAxNmg0OHYyMjRoLTQ4em0xNDQgMGg0OHYyMjRoLTQ4em03Mi0xNmg0OHYyNTZoLTQ4eiIgc3Ryb2tlPSIjMjFDQkNFIiBmaWxsPSIjMjFDQkNFIj48L3BhdGg+PHBhdGggZD0iTTEwNCAxMDRWNTZIMTZ2NDAwaDg4di00OEg2NFYxMDR6bTMwNC00OHY0OGg0MHYzMDRoLTQwdjQ4aDg4VjU2eiIgc3Ryb2tlPSIjMjFDQkNFIiBmaWxsPSIjMjFDQkNFIj48L3BhdGg+PC9zdmc+)](https://paperswithcode.com/dataset/bhsd) [![BibTeX](https://img.shields.io/badge/BibTeX-Citation-eeeeee?style=flat-square)](https://github.com/White65534/BHSD/tree/main#citation)<br>
+> <img src="https://github.com/steve-zeyu-zhang/steve-zeyu-zhang/blob/main/asset/bhsd.svg" width="500">
+
+> **A Deep Learning Approach to Diabetes Diagnosis**<br>
+> [_**ACIIDS 2024**_](https://aciids.pwr.edu.pl/2024/)<br>
+> [![Website](https://img.shields.io/badge/Website-Demo-fedcba?style=flat-square)](https://steve-zeyu-zhang.github.io/DiabetesDiagnosis) [![arXiv](https://img.shields.io/badge/arXiv-2403.07483-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2403.07483) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/steve-zeyu-zhang/DiabetesDiagnosis)<br>
+> <img src="https://github.com/steve-zeyu-zhang/steve-zeyu-zhang/blob/main/asset/diabetes.svg" width="500">
+
+
 ## People
 
 
