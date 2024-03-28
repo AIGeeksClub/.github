@@ -8,8 +8,8 @@
 <table>
 <tbody>
 <tr>
-<td align="center" valign="top" width="14.28%"><a href="https://github.com/Richardqiyi"><img src="https://avatars.githubusercontent.com/u/149352748?s=96&v=4" width="100px;"/><br /><b>QIYI</b></a></td>
-<td align="center" valign="top" width="14.28%"><a href="https://github.com/huangjiayu-zju"><img src="https://avatars.githubusercontent.com/u/64767522?s=96&v=4" width="100px;"/><br /><b>Jiayu</b></a></td>
+<td align="center" valign="top" width="14.28%"><a href="https://github.com/Richardqiyi"><img src="/avatar/qiyi.jpeg" width="100px;"/><br /><b>QIYI</b></a></td>
+<td align="center" valign="top" width="14.28%"><a href="https://github.com/huangjiayu-zju"><img src="/avatar/jiayu.jpeg" width="100px;"/><br /><b>Jiayu</b></a></td>
 <td align="center" valign="top" width="14.28%"><a href="https://scholar.google.com/citations?user=Y3SBBWMAAAAJ&hl=en&oi=sra"><img src="https://avatars.githubusercontent.com/u/113005567?s=96&v=4" width="100px;"/><br /><b>Biao</b></a></td>
 <td align="center" valign="top" width="14.28%"><a href="https://github.com/hycarbon-b"><img src="https://avatars.githubusercontent.com/u/63985695?s=96&v=4" width="100px;"/><br /><b>Chen</b></a></td>
 <td align="center" valign="top" width="14.28%"><a href="https://github.com/lgX1123"><img src="https://avatars.githubusercontent.com/u/98698611?s=96&v=4" width="100px;"/><br /><b>lgx</b></a></td>
