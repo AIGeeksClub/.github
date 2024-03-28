@@ -1,5 +1,9 @@
 <div align="center"><h1> AI Geeks </h1></div>
 
+## About
+
+## News
+
 ## Research
 
 > **SegReg: Segmenting OARs by Registering MR Images and CT Annotations**<br>
