@@ -7,7 +7,7 @@
 
 ## About
 
-[AI Geeks](https://aigeeksgroup.github.io) is a research group formed by a team of enthusiastic researchers who are passionate about cutting-edge computer vision and machine learning. The group's research spans multiple disciplines, including AI for Health, Multimodal LLM Agents, 3D Generative Modeling, and Robotics. The group continually pushes the boundaries of AI research, producing significant cross-disciplinary outputs and having papers accepted at prestigious international conferences and journals. Feel free to [join us](ai.geeks@outlook.com) if you are interested in being part of our research or supporting us in other ways.
+[AI Geeks](https://aigeeksgroup.github.io) is a research group formed by a team of enthusiastic researchers who are passionate about cutting-edge computer vision and machine learning. The group's research spans multiple disciplines, including AI for Health, Multimodal LLM Agents, 3D Generative Modeling, and Robotics. The group continually pushes the boundaries of AI research, producing significant cross-disciplinary outputs and having papers accepted at prestigious international conferences and journals. Feel free to [join us](mailto:ai.geeks@outlook.com) if you are interested in being part of our research or supporting us in other ways.
 
 ## News
 
