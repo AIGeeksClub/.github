@@ -11,6 +11,17 @@
 
 ## News
 
+<b>(06/18/2024)</b> &#127881; Our paper <a href="https://steve-zeyu-zhang.github.io/JointViT">JointViT</a> has been selected as <b>oral presentation</b> at <a href="https://miua2024.github.io/"><b>MIUA 2024</b></a>!<br>
+<b>(05/23/2024)</b> &#127881; Our paper <a href="https://steve-zeyu-zhang.github.io/MotionAvatar/">Motion Avatar</a> has been promoted by <a href="https://twitter.com/ai_bites/status/1792907754727744000"><b>AI Bites</b></a>!<br>
+<b>(05/22/2024)</b> &#127881; Our paper <a href="https://steve-zeyu-zhang.github.io/MotionAvatar/">Motion Avatar</a> has been promoted by <a href="https://www.reddit.com/r/languagemodeldigest/comments/1cxqebo/create_3d_avatars_with_text_prompts_with_this_new/"><b>Language Model Digest</b></a>!<br>
+<b>(05/21/2024)</b> &#127881; Our paper <a href="https://steve-zeyu-zhang.github.io/MotionAvatar/">Motion Avatar</a> has been promoted by <a href="https://x.com/CSVisionPapers/status/1792975365842817444"><b>CSVisionPapers</b></a>!<br>
+<b>(05/14/2024)</b> &#127881; Our paper <a href="https://steve-zeyu-zhang.github.io/JointViT">JointViT</a> has been accepted to <a href="https://miua2024.github.io/"><b>MIUA 2024</b></a>!<br>
+<b>(03/02/2024)</b> &#127881; Our paper <a href="https://steve-zeyu-zhang.github.io/DiabetesDiagnosis/">A Deep Learning Approach to Diabetes Diagnosis</a> has been accepted to <a href="https://aciids.pwr.edu.pl/2024/"><b>ACIIDS 2024</b></a>!<br>
+<b>(02/10/2024)</b> &#127881; Our paper <a href="https://steve-zeyu-zhang.github.io/SegReg">SegReg</a> has been accepted to <a href="https://biomedicalimaging.org/2024/"><b>ISBI 2024</b></a>!<br>
+<b>(11/16/2023)</b> &#127881; Our paper <a href="https://steve-zeyu-zhang.github.io/SegReg">SegReg</a> has been highlighted by <a href="https://wx.zsxq.com/dweb2/index/topic_detail/188418544524512"><b>CVer</b></a>!<br>
+<b>(09/29/2023)</b> &#127881; Our paper <a href="https://github.com/White65534/BHSD">BHSD</a> has been accepted to <a href="https://sites.google.com/view/mlmi2023"><b>MLMI 2023</b></a>!<br>
+<b>(08/23/2023)</b> &#127881; Our paper <a href="https://github.com/White65534/BHSD">BHSD</a> has been highlighted by <a href="https://wx.zsxq.com/mweb/views/topicdetail/topicdetail.html?topic_id=588155111148854&group_id=142181451122&inviter_id=585252854845544"><b>CVer</b></a>!<br>
+
 ## Research
 
 > **Motion Avatar: Generate Human and Animal Avatars with Arbitrary Motion**<br>
@@ -43,6 +54,8 @@
 
 
 ## People
+
+
 
 
 <table>
