@@ -11,6 +11,7 @@
 
 ## News
 
+<b>(07/19/2024)</b> &#127881; Our paper <a href="https://steve-zeyu-zhang.github.io/MotionAvatar/">Motion Avatar</a> has been accepted to <a href="https://bmvc2024.org/"><b>BMVC 2024</b></a>!<br>
 <b>(06/18/2024)</b> &#127881; Our paper <a href="https://steve-zeyu-zhang.github.io/JointViT">JointViT</a> has been selected as <b>oral presentation</b> at <a href="https://miua2024.github.io/"><b>MIUA 2024</b></a>!<br>
 <b>(05/23/2024)</b> &#127881; Our paper <a href="https://steve-zeyu-zhang.github.io/MotionAvatar/">Motion Avatar</a> has been highlighted by <a href="https://twitter.com/ai_bites/status/1792907754727744000"><b>AI Bites</b></a>!<br>
 <b>(05/22/2024)</b> &#127881; Our paper <a href="https://steve-zeyu-zhang.github.io/MotionAvatar/">Motion Avatar</a> has been highlighted by <a href="https://www.reddit.com/r/languagemodeldigest/comments/1cxqebo/create_3d_avatars_with_text_prompts_with_this_new/"><b>Language Model Digest</b></a>!<br>
@@ -25,7 +26,7 @@
 ## Research
 
 > **Motion Avatar: Generate Human and Animal Avatars with Arbitrary Motion**<br>
-> _**Preprint**_<br>
+> [_**BMVC 2024**_](https://bmvc2024.org/)<br>
 > [![Website](https://img.shields.io/badge/Website-Demo-fedcba?style=flat-square)](https://steve-zeyu-zhang.github.io/MotionAvatar/) [![arXiv](https://img.shields.io/badge/arXiv-2405.11286-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2405.11286) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/steve-zeyu-zhang/MotionAvatar) [![Papers With Code](https://img.shields.io/badge/Papers%20With%20Code-555555.svg?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgd2lkdGg9IjUxMiIgIGhlaWdodD0iNTEyIiA+PHBhdGggZD0iTTg4IDEyOGg0OHYyNTZIODh6bTE0NCAwaDQ4djI1NmgtNDh6bS03MiAxNmg0OHYyMjRoLTQ4em0xNDQgMGg0OHYyMjRoLTQ4em03Mi0xNmg0OHYyNTZoLTQ4eiIgc3Ryb2tlPSIjMjFDQkNFIiBmaWxsPSIjMjFDQkNFIj48L3BhdGg+PHBhdGggZD0iTTEwNCAxMDRWNTZIMTZ2NDAwaDg4di00OEg2NFYxMDR6bTMwNC00OHY0OGg0MHYzMDRoLTQwdjQ4aDg4VjU2eiIgc3Ryb2tlPSIjMjFDQkNFIiBmaWxsPSIjMjFDQkNFIj48L3BhdGg+PC9zdmc+)]() [![BibTeX](https://img.shields.io/badge/BibTeX-Citation-eeeeee?style=flat-square)](https://steve-zeyu-zhang.github.io/MotionAvatar/static/scholar.html)<br>
 > <img src="https://github.com/steve-zeyu-zhang/MotionAvatar/blob/main/static/images/main-1.svg" width="600">
 
