@@ -87,6 +87,6 @@
 
 ## Contact
 
-- Email: ai.geeks@outlook.com
+- Email: ai.geeks@groups.outlook.com
 
 
