@@ -11,6 +11,7 @@
 
 ## News
 
+<b>(07/30/2024)</b> &#127881; Our paper <a href="https://arxiv.org/abs/2407.19546">XLIP</a> has been highlighted by <a href="https://wx.zsxq.com/dweb2/index/topic_detail/8855158522148252"><b>CVer</b></a>!<br>
 <b>(07/19/2024)</b> &#127881; Our paper <a href="https://steve-zeyu-zhang.github.io/MotionAvatar/">Motion Avatar</a> has been accepted to <a href="https://bmvc2024.org/"><b>BMVC 2024</b></a>!<br>
 <b>(06/18/2024)</b> &#127881; Our paper <a href="https://steve-zeyu-zhang.github.io/JointViT">JointViT</a> has been selected as <b>oral presentation</b> at <a href="https://miua2024.github.io/"><b>MIUA 2024</b></a>!<br>
 <b>(05/23/2024)</b> &#127881; Our paper <a href="https://steve-zeyu-zhang.github.io/MotionAvatar/">Motion Avatar</a> has been highlighted by <a href="https://twitter.com/ai_bites/status/1792907754727744000"><b>AI Bites</b></a>!<br>
